@@ -12,12 +12,13 @@
       rgba(48, 16, 255, 1) 0%,
       rgba(100, 115, 255, 1) 100%
     );
+      width: 100%;
   }
   .todo-app {
     display: flex;
     flex-direction: column;
     justify-content: start;
-    width: 520px;
+    width: 50%;
     min-height: 600px;
     background: #161a2b;
     text-align: center;
